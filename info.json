@@ -2,7 +2,7 @@
     "name": "skys-infinite-spidertrons",
     "version": "1.0.1",
     "factorio_version": "1.1",
-    "title": "SkyKiwi's Infinite Spidertron",
+    "title": "SkyKiwi's Infinite Spidertrons",
     "author": "SkyKiwi",
     "homepage": "",
     "description": "Adds customizable number of additional Spidertron tiers.\nTiers have customizeably increasing health, inventory space, grid size, resistances, and size.\n\nCredit to tocko73 for the original ModuleOverhaul which was used as a reference.  Infinity icon from Stockio on Flaticon.com"
