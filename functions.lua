@@ -1,5 +1,13 @@
 require "util"
 
+function get_order(tier)
+	local s = tostring(tier)
+	local order = ""
+	if #s < 2 then order = order.."0" end
+	local order = order..s
+	return order
+end
+
 function resize_spidertron(spiderEntity, scale, scale_factor)
 	spiderEntity.height = spiderEntity.height * scale
 	
