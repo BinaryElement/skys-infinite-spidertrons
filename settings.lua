@@ -60,7 +60,8 @@ settings = {
         default_value = 2,
         minimum_value = 0,
         maximum_value = 100,
-        setting_type = "startup"
+        setting_type = "startup",
+        hidden = true
     },
     { 
         name = "spidertron-tier-weapon-firing-speed-factor",
@@ -69,7 +70,8 @@ settings = {
         default_value = 0.9,
         minimum_value = 0.1,
         maximum_value = 10,
-        setting_type = "startup"
+        setting_type = "startup",
+        hidden = true
     },
     { 
         name = "spidertron-tier-one-scale",
@@ -78,7 +80,8 @@ settings = {
         default_value = 1,
         minimum_value = 0.1,
         maximum_value = 10,
-        setting_type = "startup"
+        setting_type = "startup",
+        hidden = true
     },
     { 
         name = "spidertron-tier-scale-factor",
