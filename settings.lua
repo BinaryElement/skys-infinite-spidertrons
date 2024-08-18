@@ -88,7 +88,7 @@ settings = {
         type = "double-setting",
         order = "fb",
         default_value = 1,
-        minimum_value = 0.1,
+        minimum_value = -10,
         maximum_value = 10,
         setting_type = "startup"
     },
@@ -97,7 +97,7 @@ settings = {
         type = "double-setting",
         order = "fc",
         default_value = 0.1,
-        minimum_value = 0,
+        minimum_value = -10,
         maximum_value = 10,
         setting_type = "startup"
     },
