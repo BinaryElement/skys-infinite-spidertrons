@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 08. 18. 2024
+  Bugfixes:
+    - Allowed negative spidertron scaling.
+    - Added warnings in spidertron size scaling options.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 07. 06. 2024
   Bugfixes:
@@ -7,4 +13,4 @@ Date: 07. 06. 2024
 Version: 1.0.1
 Date: 07. 06. 2024
   Features:
-    - Initial release
+    - Initial release.
